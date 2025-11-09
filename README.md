@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilendra-pratap-singh&label=Profile%20views&color=0e75b6&style=flat" alt="akhilendra-pratap-singh" /> </p>
 
-- 🌱 I’m currently learning **EDA,Feature Engineering,Machine Learning**
+- 🌱 I’m currently learning **Natural Language Processing,Genrative AI,Agentic AI**
 
 - 📫 How to reach me **akhilendrasingh2812@gmail.com**
 
