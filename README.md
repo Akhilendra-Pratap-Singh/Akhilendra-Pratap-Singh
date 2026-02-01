@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="gif"></img>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Akhilendra Pratap Singh</h1>
 <h3 align="center">AI/ML Engineer | GenAI & Agentic AI Enthusiast</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akhilendra-pratap-singh&label=Profile%20views&color=0e75b6&style=flat" alt="akhilendra-pratap-singh" />
+  <img src="https://komarev.com/ghpvc/?username=akhilendra-pratap-singh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -60,39 +60,49 @@ I enjoy building **end-to-end AI systems** — from model training and fine-tuni
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-`Python` `C` `C++` `SQL`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+</p>
+
+---
 
 ### 🤖 AI / ML & GenAI
-`PyTorch` `TensorFlow` `Keras` `OpenCV`  
-`Hugging Face` `LoRA (PEFT)` `RAG`  
-`LangChain` `LangGraph` `LangSmith`  
-`OpenAI Agents SDK` `AutoGen` `CrewAI` `Ollama`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/>
+</p>
 
-### 📊 Data Science
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="45"/>
+</p>
+
+---
+
+### 📊 Data Science & Visualization
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/akhilendra-pratap-singh-bbb428313" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/akhilendra-pratap-singh-bbb428313">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://www.leetcode.com/akhilendrasingh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/akhilendrasingh">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilendra-pratap-singh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-       style="width: 45%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilendra-pratap-singh&theme=dark"
-       style="width: 45%; margin-left: 10px;" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilendra-pratap-singh&layout=compact&bg_color=0d1117&text_color=ffffff"
-       style="width: 50%;" />
-</div>
