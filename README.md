@@ -75,21 +75,24 @@ I enjoy building **end-to-end AI systems** — from model training and fine-tuni
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/akhilendra-pratap-singh-bbb428313" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/akhilendrasingh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/akhilendra-pratap-singh-bbb428313" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/akhilendrasingh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         height="30" width="40" />
+  </a>
 </p>
 
----
-
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilendra-pratap-singh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" style="width: 45%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilendra-pratap-singh&theme=dark" style="width: 45%; margin-left: 10px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilendra-pratap-singh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+       style="width: 45%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilendra-pratap-singh&theme=dark"
+       style="width: 45%; margin-left: 10px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilendra-pratap-singh&layout=compact&bg_color=0d1117&text_color=ffffff" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilendra-pratap-singh&layout=compact&bg_color=0d1117&text_color=ffffff"
+       style="width: 50%;" />
 </div>
